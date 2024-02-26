@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sunaina Anand</h1>
 <h3 align="center">A computer application student</h3>
-<img align="center" width="400" src="https://img.freepik.com/premium-photo/computer-circuit-with-blue-yellow-background_863013-26922.jpg?w=1380" alt="">
+<img align="center" width="600" src="https://img.freepik.com/premium-photo/computer-circuit-with-blue-yellow-background_863013-26922.jpg?w=1380" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=user895naina&label=Profile%20views&color=0e75b6&style=flat" alt="user895naina" /> </p>
 
