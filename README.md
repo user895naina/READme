@@ -1,7 +1,8 @@
-  <h1 align="center">Hi 👋, I'm Sunaina Anand</h1>
+<img align="center" width="900" height="500" src="dsw.gif" alt="">
+<h1 align="center">Hi 👋, I'm Sunaina Anand</h1>
 <h3 align="center">A COMPUTER APPLICATION'S STUDENT</h3>
 <img align="center" width="900" src="https://img.freepik.com/premium-photo/computer-circuit-with-blue-yellow-background_863013-26922.jpg?w=1380" alt="">
-
+<img align="center" width="900" height="500" src="dsw.gif" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=user895naina&label=Profile%20views&color=0e75b6&style=flat" alt="user895naina" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=user895naina" alt="user895naina" /></a> </p>
